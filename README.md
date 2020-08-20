@@ -1,7 +1,7 @@
 # bots
 Python bots para Instagram ...
 
-![Badge](https://img.shields.io/badge/Blog-AtriosTech-%#339933?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Blog-AtriosTech-339933?style=for-the-badge&logo=ghost)
 
 
 # Instalando dependências

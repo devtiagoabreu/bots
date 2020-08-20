@@ -25,26 +25,35 @@ Tabela de conteúdos
 
 ### Features
 
-- [x] bot utilizando Hashtags
-- [x] bot utilizando ...
-- [x] bot...
+- [x] Ver stories
+- [x] Curtir e comentar fotos
+- [x] e muito + ...
 
-#instalacao
-Instale o Python (Windows)
-https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
+### Pré-requisitos
 
-Instale o gerenciador de pacotes pip
-python -m pip install --upgrade pip
-pip install --upgrade setuptools
-pip install protobuf==3.6.0
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Python](https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe), [Firefox](https://www.mozilla.org/pt-BR/firefox/download/thanks/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-Instale o InstaPy
+### 🎲 Instalando o Gerenciador de pacotes "pip"
+
+```PowerShell
+# Instalando
+$ python -m pip install --upgrade pip
+
+# Faça o upgrade do pip
+$ pip install --upgrade setuptools
+
+# downgrade
+$ pip install protobuf==3.6.0
+
+# Instale o InstaPy
 pip install instapy
 
-Instale o Browser "FireFox"
+# Execute os scripts desejados
+$ python botScriptHashtags.py
+```
 
-Abra o CMD ou PowerShell do windows e rode os scripts como no exemplo abaixo
-python botScriptHashtags.py
 
 # botScriptHashtags
   -Ver stories;

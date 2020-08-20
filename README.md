@@ -1,2 +1,11 @@
 # bots
-Python bots to view stories, like and comment on Instagram photos...
+Python bots para Instagram ...
+Instale o Python
+
+Instale o InstaPy
+
+# botScriptHashtags
+  -Ver stories; 
+  -Curtir e comentar fotos;
+  
+

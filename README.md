@@ -3,8 +3,25 @@ Python bots para Instagram ...
 
 ![Badge](https://img.shields.io/badge/Blog-AtriosTech-339933?style=for-the-badge&logo=ghost)
 
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
 
-# Instalando dependências
+
+
+#instalacao
 Instale o Python (Windows)
 https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
 

@@ -53,8 +53,9 @@ pip install instapy
 # Execute os scripts desejados
 $ python botScriptHashtags.py
 ```
+### 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
 
-# botScriptHashtags
-  -Ver stories;
-  -Curtir e comentar fotos;
+- [InstaPy](https://github.com/InstaPy/instapy-quickstart)
+- [Python 3.6](https://www.python.org/downloads/release/python-360/)

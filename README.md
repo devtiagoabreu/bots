@@ -23,6 +23,12 @@ Tabela de conteúdos
 	🚧  Python Bots 🚀 Em construção...  🚧
 </h4>
 
+### Features
+
+- [x] bot utilizando Hashtags
+- [x] bot utilizando ...
+- [x] bot...
+
 #instalacao
 Instale o Python (Windows)
 https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe

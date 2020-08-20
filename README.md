@@ -35,7 +35,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Python](https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe), [Firefox](https://www.mozilla.org/pt-BR/firefox/download/thanks/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Instalando o Gerenciador de pacotes "pip"
+### 🎲 Instalação
 
 ```PowerShell
 # Instalando

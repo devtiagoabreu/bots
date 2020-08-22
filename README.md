@@ -11,12 +11,7 @@ Tabela de conteúdos
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+      * [Tecnologias](#tecnologias)
 <!--te-->
 
 <h4 align="center">
@@ -27,7 +22,10 @@ Tabela de conteúdos
 
 - [x] Ver stories
 - [x] Curtir e comentar fotos
-- [x] e muito + ...
+- [x] Seguir por Tags (Hashtags)
+- [x] Seguir por localização
+- [x] Deixar de seguir todos
+- [x] Deixar de seguir quem não te segue
 
 ### Pré-requisitos
 
